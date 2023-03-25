@@ -1,6 +1,6 @@
 https://18500-Capstone.github.io/
 
-![The Last Spartan](https://github.com/ferronsays/js13k-TheLastSpartan/blob/master/media/logo_small_enlarged.png)
+![The Last Spartan](https://github.com/18500-Capstone/18500-Capstone.github.io/blob/master/media/logo_small_enlarged.png)
 
 # The Last Spartan
 
@@ -12,7 +12,8 @@ Cut your enemies to pieces and defend your homeland! Can you, the last Spartan H
 
 No retreat. No surrender. No way out alive. Kill as many Athenians as you can before you meet the same fate. Then try again.
 
-![The Last Spartan](https://github.com/ferronsays/js13k-TheLastSpartan/blob/master/media/logo_large_enlarged.png)
+![The Last Spartan](https://github.com/18500-Capstone/18500-Capstone.github.io/blob/master/media/logo_large_enlarged.png)
+
 
 ## Controls
 
